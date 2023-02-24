@@ -1,0 +1,6 @@
+# Model params
+LEAKY_RELU_COEF = 0.15
+
+# loss params
+CYCLE_LOSS_WEIGHT = 5.
+IDENTITY_LOSS_WEIGHT = 1.
